@@ -1,6 +1,6 @@
 Feature: An example
 #позитивный
-  Scenario: chouse city
+  Scenario: chose city
     Given url of restaurant 'https://dominospizza.ru/'
     Then put the city
     Then chose city 'Люберцы'
